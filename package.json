@@ -3,7 +3,7 @@
     "dev": "vite",
     "build": "npx vite build"
   },
-  "dependencies": {
+  "devDependencies": {
     "vite": "^8.1.3"
   }
 }
